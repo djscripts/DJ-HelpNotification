@@ -1,5 +1,4 @@
 # DJ-HelpNotification
-TextUI básico desarrollado por DaniJim#0001
 
 Discord para más info y scripts --> https://discord.gg/gT7RYMtQkZ
 
